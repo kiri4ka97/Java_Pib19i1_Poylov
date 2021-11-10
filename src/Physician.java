@@ -22,4 +22,3 @@ public class Physician {
         return "Код: " + code + " " + secondName + " " + firstName + " " + middleName;
     }
 }
-
