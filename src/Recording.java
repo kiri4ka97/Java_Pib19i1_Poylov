@@ -16,3 +16,4 @@ public class Recording {
         return "Причина записи: " + description + ", услуга: " + service.toString() + ", пациент: " + patient.toString() + ", врач: " + physician.toString();
     }
 }
+

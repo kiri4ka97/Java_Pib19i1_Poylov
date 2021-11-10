@@ -6,3 +6,4 @@ public class MedicalCard {
         return "мед карта с номером: " + cardId;
     }
 }
+

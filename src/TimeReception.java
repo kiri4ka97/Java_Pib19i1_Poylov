@@ -9,3 +9,4 @@ public enum TimeReception {
     FIFTEEN, //15
     SIXTEEN //16
 }
+

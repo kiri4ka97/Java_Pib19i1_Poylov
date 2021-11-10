@@ -4,3 +4,4 @@ public enum Post {
     DERMATOLOGIST, //Дерматолог
     CARDIOLOGIST, //Кардиолог
 }
+
