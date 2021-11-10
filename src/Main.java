@@ -57,4 +57,3 @@ public class Main implements Receive {
         return null;
     }
 }
-
