@@ -3,4 +3,3 @@ public enum Service {
     OPERATION,
     ANALYSIS
 }
-
