@@ -24,4 +24,3 @@ public class Patient {
         return "Код: " + code + " " + secondName + " " + firstName + " " + middleName + " " + card;
     }
 }
-

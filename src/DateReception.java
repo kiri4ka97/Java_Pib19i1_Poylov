@@ -5,4 +5,3 @@ public enum DateReception {
     THURSDAY,
     FRIDAY
 }
-

@@ -11,4 +11,3 @@ public class Reception {
         this.year = year;
     }
 }
-
